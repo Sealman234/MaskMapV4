@@ -1,24 +1,21 @@
-# wheremask
+# Mask Map (口罩地圖)
 
-## Project setup
-```
-npm install
-```
+> 透過藥局口罩地圖，可以輕鬆查詢口罩剩餘數量等即時資訊。
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Wish | 需求
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- 透過上方的篩選縣市及地區，過濾出符合該條件的藥局
+- 藥局的部分使用卡片式設計讓資訊能夠清楚呈現
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 前端畫面
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![前端畫面預覽](https://i.imgur.com/yMkpOvg.png)
+
+## Skills | 使用技術
+
+- Vue CLI 4
+- API
+- JavaScript (ES6)
+- Bootstrap 4
+- SCSS
+- ESLint (Airbnb)
