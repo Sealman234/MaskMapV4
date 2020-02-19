@@ -1,6 +1,6 @@
 # Mask Map (口罩地圖)
 
-> 透過藥局口罩地圖，可以輕鬆查詢口罩剩餘數量等即時資訊。
+> 透過藥局口罩地圖，輕鬆查詢口罩剩餘數量等即時資訊。
 
 ## 需求
 
@@ -14,8 +14,9 @@
 ## 使用技術
 
 - Vue CLI 4
+- Leaflet + OpenStreetMap
 - API
 - JavaScript (ES6)
-- Bootstrap 4
-- SCSS
 - ESLint (Airbnb)
+- Bootstrap 4
+- CSS (SCSS)
